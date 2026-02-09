@@ -71,3 +71,7 @@ Explicitly banned: "genuinely", "honestly", "straightforward".
 
 - Extracted from the consumer `claude.ai` interface — API system prompts may differ
 - This is a point-in-time snapshot; Anthropic updates these periodically
+
+---
+
+If you found this useful, please ⭐ star this repo!
